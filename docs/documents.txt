@@ -1,0 +1,23 @@
+1. Web Geliştirme ve Temel Programlama (AtlasGit & Frontend İçin)
+Senin HTML, CSS ve JavaScript projelerin için başvuracağın tek gerçek kaynak burasıdır.
+MDN Web Docs (Mozilla Developer Network): İnternetin en kapsamlı ve doğru kaynağıdır. HTML, CSS ve JS için başka yere bakmana gerek yok.
+🔗 MDN Web Docs (Türkçe/İngilizce)
+React Resmi Dökümantasyonu: 6 yıllık planında var. Yeni dökümanları interaktif ve çok öğreticidir.
+🔗 React.dev
+Tailwind CSS: Modern tasarım için kullanacağın kütüphane.
+🔗 Tailwind CSS Docs
+2. Python ve Görüntü İşleme (Satranç Otomasyonu İçin)
+Satranç tahtasını tanıman ve Python ile güçlü algoritmalar yazman için.
+Python 3 Resmi Dökümantasyonu: Dilin standart kütüphanesini (örneğin os, sys, math modülleri) buradan öğrenmelisin.
+🔗 Python 3.12+ Docs
+OpenCV (Open Source Computer Vision): Görüntü işleme (Image Processing) projenin kalbi.
+🔗 OpenCV-Python Tutorials
+3. Siber Güvenlik ve Hacking (Gelecekteki Kariyerin İçin)
+"Sistemi korumak için nasıl saldırıldığını bilmen gerekir" prensibiyle okuman gerekenler.
+OWASP Top 10: Dünyadaki en kritik 10 web güvenlik açığını (SQL Injection, XSS vb.) ve bunlardan nasıl korunulacağını anlatır.
+🔗 OWASP Top 10
+PortSwigger Web Security Academy: Burası sadece döküman değil, okuyup anında laboratuvar ortamında saldırı deneyebileceğin (ücretsiz) en iyi yer.
+🔗 Web Security Academy
+4. Versiyon Kontrolü (GitHub Projelerin İçin)
+Pro Git Kitabı: Git komutlarını ezberlemek yerine mantığını anlamak için. Resmi kitaptır ve Türkçesi mevcuttur.
+🔗 Pro Git Book (Türkçe)
